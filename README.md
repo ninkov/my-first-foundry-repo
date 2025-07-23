@@ -10,7 +10,7 @@
 
 # About 
 
-This is crowd sourcing app !
+This is crowd sourcing app!
 
 ## Getting started
 
